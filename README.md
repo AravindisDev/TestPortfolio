@@ -1,61 +1,59 @@
-# Aravind P — Personal Portfolio
+# Aravind P | Portfolio
 
-A personal portfolio website for **Aravind P**, a first-year B.Tech Computer Science & Engineering student.
+A personal portfolio website for Aravind P, a first-year B.Tech Computer Science and Engineering student.
 
-The portfolio is built with semantic HTML and custom CSS, with a dark black-and-gold visual style and responsive layouts.
+This portfolio highlights my learning journey, projects, and technical interests through a clean, responsive, and modern design. The site is built using semantic HTML and custom CSS, featuring a dark black-and-gold theme inspired by a minimal premium aesthetic.
 
 ## Live Portfolio
 
-**[View Portfolio](https://aravindisdev.github.io/TestPortfolio/)**
+Visit my portfolio: [Aravind P Portfolio](https://aravindisdev.github.io/TestPortfolio/)
 
-## About
+## About Me
 
-I'm currently learning and building with:
+I am a passionate and curious learner currently exploring the world of Computer Science and software development. I enjoy building projects, solving problems, and understanding how technology works behind the scenes.
 
-* Python
-* C++
-* HTML
-* CSS
-* JavaScript
-* MongoDB
-* SQL
-* Applied AI
+My current learning interests include:
 
-Most of my learning comes from building small projects, experimenting, and understanding how things work.
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+- SQL
+- Applied AI
+
+I believe in learning by doing — building small projects, experimenting with ideas, and continuously improving my skills.
 
 ## Projects
 
 ### Project Atlas
-
-A personal knowledge tracker built while learning Python, SQL, and web development.
+A personal knowledge tracker designed to help organize concepts, notes, and learning progress while exploring Python, SQL, and web development.
 
 ### Portfolio Website
-
-A responsive personal portfolio built using semantic HTML and custom CSS without a frontend framework.
+A responsive personal portfolio built using semantic HTML and custom CSS, without relying on any frontend framework.
 
 ### Python Projects
-
-Small Python experiments and problem-solving exercises created while learning Python.
+A collection of small Python experiments, practice exercises, and problem-solving tasks created while learning the language.
 
 ## Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript
-* Python
-* Google Fonts
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Google Fonts
 
 ## Features
 
-* Responsive design
-* Dark black-and-gold theme
-* Semantic HTML
-* CSS Grid
-* Flexbox
-* Responsive navigation
-* Hover interactions
-* Reduced-motion support
-* No frontend framework
+- Responsive layout
+- Dark black-and-gold visual theme
+- Semantic HTML structure
+- CSS Grid and Flexbox
+- Responsive navigation
+- Hover interactions
+- Reduced-motion support
+- Lightweight and framework-free design
 
 ## Project Structure
 
@@ -63,7 +61,8 @@ Small Python experiments and problem-solving exercises created while learning Py
 TestPortfolio/
 ├── index.html
 ├── style.css
-└── README.md
+├── README.md
+└── assets/ (if used)
 ```
 
 ## Run Locally
@@ -74,24 +73,23 @@ Clone the repository:
 git clone https://github.com/AravindisDev/TestPortfolio.git
 ```
 
-Open the project folder and open `index.html` in your browser.
+Then open the project folder and launch `index.html` in your browser.
 
 No build tools or dependencies are required.
 
 ## Connect
 
-* GitHub: https://github.com/AravindisDev
-* LinkedIn: https://www.linkedin.com/in/aravindisdev
-* Instagram: https://www.instagram.com/aravindisdev
-* X: https://x.com/aravindisdev
-* Email: [aravindisdev@gmail.com](mailto:aravindisdev@gmail.com)
+- GitHub: [AravindisDev](https://github.com/AravindisDev)
+- LinkedIn: [Aravind P](https://www.linkedin.com/in/aravindisdev)
+- Instagram: [@aravindisdev](https://www.instagram.com/aravindisdev)
+- X: [@aravindisdev](https://x.com/aravindisdev)
+- Email: [aravindisdev@gmail.com](mailto:aravindisdev@gmail.com)
 
-## Status
+## Current Status
 
-Currently learning, building, and improving.
+I am actively learning, building, and improving my technical skills through hands-on projects and continuous exploration.
 
 ## Submission
 
-Repository: https://github.com/AravindisDev/TestPortfolio
-
-Live Portfolio: https://aravindisdev.github.io/TestPortfolio/
+- Repository: [AravindisDev/TestPortfolio](https://github.com/AravindisDev/TestPortfolio)
+- Live Portfolio: [https://aravindisdev.github.io/TestPortfolio/](https://aravindisdev.github.io/TestPortfolio/)
