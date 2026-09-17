@@ -89,3 +89,9 @@ No build tools or dependencies are required.
 ## Status
 
 Currently learning, building, and improving.
+
+## Submission
+
+Repository: https://github.com/AravindisDev/TestPortfolio
+
+Live Portfolio: https://aravindisdev.github.io/TestPortfolio/
