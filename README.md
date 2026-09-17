@@ -2,7 +2,11 @@
 
 A personal portfolio website for **Aravind P**, a first-year B.Tech Computer Science & Engineering student.
 
-The website uses a premium black-and-gold design with clean typography, responsive layouts, and subtle interactions.
+The portfolio is built with semantic HTML and custom CSS, with a dark black-and-gold visual style and responsive layouts.
+
+## Live Portfolio
+
+**[View Portfolio](https://aravindisdev.github.io/TestPortfolio/)**
 
 ## About
 
@@ -17,7 +21,7 @@ I'm currently learning and building with:
 * SQL
 * Applied AI
 
-I learn mainly by building small projects, experimenting, and understanding how things work.
+Most of my learning comes from building small projects, experimenting, and understanding how things work.
 
 ## Projects
 
@@ -27,7 +31,7 @@ A personal knowledge tracker built while learning Python, SQL, and web developme
 
 ### Portfolio Website
 
-A responsive personal portfolio built using semantic HTML and hand-written CSS without a frontend framework.
+A responsive personal portfolio built using semantic HTML and custom CSS without a frontend framework.
 
 ### Python Projects
 
@@ -46,16 +50,17 @@ Small Python experiments and problem-solving exercises created while learning Py
 * Responsive design
 * Dark black-and-gold theme
 * Semantic HTML
-* CSS Grid and Flexbox
+* CSS Grid
+* Flexbox
 * Responsive navigation
-* Subtle hover interactions
+* Hover interactions
 * Reduced-motion support
 * No frontend framework
 
 ## Project Structure
 
 ```text
-portfolio/
+TestPortfolio/
 ├── index.html
 ├── style.css
 └── README.md
@@ -66,7 +71,7 @@ portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/AravindisDev/TestPortfolio
+git clone https://github.com/AravindisDev/TestPortfolio.git
 ```
 
 Open the project folder and open `index.html` in your browser.
@@ -75,7 +80,7 @@ No build tools or dependencies are required.
 
 ## Connect
 
-* GitHub: https://github.com/aravind
+* GitHub: https://github.com/AravindisDev
 * LinkedIn: https://www.linkedin.com/in/aravindisdev
 * Instagram: https://www.instagram.com/aravindisdev
 * X: https://x.com/aravindisdev
